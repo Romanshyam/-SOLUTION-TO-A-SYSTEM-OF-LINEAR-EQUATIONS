@@ -27,7 +27,7 @@ d=np.array(b)
 print(np.linalg.solve(a,b))
 ```
 ## Output:
-![output](exp1 mat.png)
+![output](exp.png)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
